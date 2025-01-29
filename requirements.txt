@@ -1,2 +1,13 @@
 streamlit
 pandas 
+plotly 
+ta-lib 
+pandas 
+numpy 
+beautifulsoup4
+yfinance
+streamlit
+pandas
+altair 
+typing
+datetime
